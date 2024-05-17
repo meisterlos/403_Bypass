@@ -5,7 +5,7 @@ from colorama import init, Fore, Style
 # SSL sertifikası doğrulaması hatasını engellemek için uyarıyı devre dışı bıraktım.
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-# Colorama'yı başlat
+# Colorama'yı başlattım
 init()
 
 def bypass_403(target_url):
