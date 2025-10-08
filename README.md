@@ -1,5 +1,8 @@
 # 403 Bypass Scanner (GUI)
 
+<img width="1084" height="712" alt="image" src="https://github.com/user-attachments/assets/67cc35f7-417e-4574-a29a-7c0f2f00e174" />
+
+
 A Tkinter-based tool for security testing to probe potential 403 bypass behaviors across various path/header/method mutations.
 
 Important: Use only on systems and targets you have explicit authorization to test. Unauthorized use may be illegal.
@@ -35,3 +38,4 @@ python -m app.gui
 - Tool sends requests without following redirects to preserve status codes.
 - Consider using a proxy like Burp/ZAP via the Proxy field for inspection.
 - Always coordinate testing windows and rate limits with the asset owner.
+
