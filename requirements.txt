@@ -1,0 +1,7 @@
+requests==2.32.3
+urllib3==2.2.3
+chardet==5.2.0
+idna==3.10
+certifi==2024.8.30
+psutil==6.0.0
+colorama==0.4.6
